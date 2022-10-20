@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Hi 👋 My name is Raul Pineda
+Hi 👋 My name is Raul Pineda but you can call me Yudo
 ============================
 
-I want to become a full frontend and creative developer
+I want to become a full  stack and creative developer
 -------------------------------------------------------
 
-ive been learning to code for 1 year. i started with html and css and I'm currently trying to master JS I also want to learn three js because i really like 3d websites
+ive been learning to code for 1 year. i started with html and css and I'm currently trying to master React JS and learning about MERN stack 
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [raulpineda7b28@gmail.com](mailto:raulpineda7b28@gmail.com)
-* 🧠  I'm learning React js
+* 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on Any web apps projects
 
 ### Skills
