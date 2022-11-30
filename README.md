@@ -6,7 +6,7 @@ Hi 👋 My name is Raul Pineda but you can call me Yudo
 I want to become a full  stack and creative developer
 -------------------------------------------------------
 
-ive been learning to code for 1 year. i started with html and css and I'm currently trying to master React JS and learning about MERN stack 
+ive been learning to code for 1 year. i started with html and css and I'm currently trying to master React JS, start learning React Native and  MERN stack 
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [raulpineda7b28@gmail.com](mailto:raulpineda7b28@gmail.com)
