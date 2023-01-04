@@ -10,7 +10,7 @@ ive been learning to code for 1 year. i started with html and css and I'm curren
 
 * 🌍  I'm based in Madrid
 * ✉️  You can contact me at [raulpineda7b28@gmail.com](mailto:raulpineda7b28@gmail.com)
-* 🧠  I'm learning React Native
+* 🧠  I'm learning Node js, Express and Mongodb
 * 🤝  I'm open to collaborating on Any web apps projects
 
 ### Skills
