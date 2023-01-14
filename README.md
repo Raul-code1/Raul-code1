@@ -25,34 +25,5 @@ ive been learning to code for 1 year. i started with html and css and I'm curren
 </p>
 
 
-### Socials
 
-<p align="left">
-  
-  <a
-    href="https://discord.com/users/yudo#5833"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-      width="32"
-      height="32"
-    />
-  </a>
-  <a href="https://www.github.com/Raul-code1" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-      width="32"
-      height="32"
-    />
-  </a>
-  <a href="http://www.instagram.com/raulp_15" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"
-      width="32"
-      height="32"
-    />
-  </a>
-</p>;
 
